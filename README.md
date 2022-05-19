@@ -1,16 +1,15 @@
-### Hi there 👋
+Hello 👋 I’m Elias !
+A passionate frontend developer from Israel
 
-<!--
-**eliasadmaso1/eliasadmaso1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💪 I love to write code.
 
-Here are some ideas to get you started:
+📚 Like to read books.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi , I'm a passionate Full Stack Developer with a strong desire to learn and grow. For both, I take advantage of every chance to get better, I am resourceful & focused, constantly seeking opportunities to get out of my comfort zone.
+
+✔️ With experience in JavaScript , Html and Css.
+
+✔️ Highly Experienced in React Nodejs![restaurant](https://user-images.githubusercontent.com/76824469/169255637-a89bff4f-93c3-40d9-8751-2e48b1e9e221.jpeg)
+ and Mongodb.
+
+Currently looking for a junior position as a Full Stack Developer / Software Engineer in the Central District of Israel. Available to work full-time .
