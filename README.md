@@ -9,7 +9,9 @@ Hi , I'm a passionate Full Stack Developer with a strong desire to learn and gro
 
 ✔️ With experience in JavaScript , Html and Css.
 
-✔️ Highly Experienced in React Nodejs![restaurant](https://user-images.githubusercontent.com/76824469/169255637-a89bff4f-93c3-40d9-8751-2e48b1e9e221.jpeg)
- and Mongodb.
+✔️ Highly Experienced in React Nodejs and Mongodb.
 
 Currently looking for a junior position as a Full Stack Developer / Software Engineer in the Central District of Israel. Available to work full-time .
+
+![team](https://user-images.githubusercontent.com/76824469/169256203-6b719b69-6919-4273-93d5-02ec08d44161.jpeg)
+
